@@ -2,6 +2,10 @@ p,ul,ol{
     color: #858585;
 }
 
+pre{
+    font-size:16px;
+}
+
 h1,h2,h3,h4{
     color: #424242;
 }
